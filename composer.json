@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "alysonrodrigo/cookie-laravel-location": "dev-master"
+        "alysongustavo/cookie-laravel-location": "dev-master"
     },
     "autoload": {
         "psr-4": {
