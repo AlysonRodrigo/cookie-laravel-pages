@@ -1,0 +1,12 @@
+{
+    "name": "alysonrodrigo/cookie-laravel-pages",
+    "authors": [
+        {
+            "name": "Alyson Rodrigo",
+            "email": "g.dasilva@hotmail.com"
+        }
+    ],
+    "require": {
+        "alysonrodrigo/cookie-laravel-location": "dev-master"
+    }
+}
